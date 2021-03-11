@@ -2,6 +2,6 @@
 
 - 🔭 I’m a undergraduate at [Harokopio University](https://dit.hua.gr/index.php/en/)
 - 🌱 I’m currently trying to create fun thing using Python
-- &#128136;
+- &#128136; Also studying English
 - 📫 How to reach me: 
 
