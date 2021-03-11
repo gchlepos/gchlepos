@@ -3,6 +3,6 @@
 - 🔭 I’m a undergraduate at [Harokopio University](https://dit.hua.gr/index.php/en/)
 - 🌱 I’m currently trying to learn Python by creating fun projects
 - :computer:
-- &#128136; Also studying English
+- :barber: Also studying English
 - 📫 My email address: <georgechlepos@gmail.com>
 
